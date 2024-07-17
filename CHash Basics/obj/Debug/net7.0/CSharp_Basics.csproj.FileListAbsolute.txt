@@ -1,0 +1,15 @@
+/Users/nandan/Projects/CHash Basics/CHash Basics/bin/Debug/net7.0/CSharp_Basics
+/Users/nandan/Projects/CHash Basics/CHash Basics/bin/Debug/net7.0/CSharp_Basics.deps.json
+/Users/nandan/Projects/CHash Basics/CHash Basics/bin/Debug/net7.0/CSharp_Basics.runtimeconfig.json
+/Users/nandan/Projects/CHash Basics/CHash Basics/bin/Debug/net7.0/CSharp_Basics.dll
+/Users/nandan/Projects/CHash Basics/CHash Basics/bin/Debug/net7.0/CSharp_Basics.pdb
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/CSharp_Basics.csproj.AssemblyReference.cache
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/CSharp_Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/CSharp_Basics.AssemblyInfoInputs.cache
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/CSharp_Basics.AssemblyInfo.cs
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/CSharp_Basics.csproj.CoreCompileInputs.cache
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/CSharp_Basics.dll
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/refint/CSharp_Basics.dll
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/CSharp_Basics.pdb
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/CSharp_Basics.genruntimeconfig.cache
+/Users/nandan/Projects/CHash Basics/CHash Basics/obj/Debug/net7.0/ref/CSharp_Basics.dll
